@@ -59,11 +59,13 @@ _No recent public push activity available._
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TechParthOps&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/TechParthOps?tab=repositories)
+
+[![Contributions](https://img.shields.io/badge/Focus-Consistent%20Engineering-00BFA6?style=for-the-badge)](https://github.com/TechParthOps)
 
 </div>
 
@@ -75,15 +77,21 @@ _No recent public push activity available._
 
 </div>
 
-## 🔝 Top Contributed Repositories
+## 🚀 Explore My Projects
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=TechParthOps&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" />
+[![SENTINEL-M](https://img.shields.io/badge/SENTINEL--M-Autonomous%20Cyber%20Defense-0D9488?style=for-the-badge)](https://github.com/TechParthOps/SENTINEL-M)
+
+[![LogAsis](https://img.shields.io/badge/LogAsis-AI%20Log%20Investigation-2563EB?style=for-the-badge)](https://github.com/TechParthOps/LogAsis)
+
+[![GuardRailX](https://img.shields.io/badge/GuardRailX-AI%20Guardrails-7C3AED?style=for-the-badge)](https://github.com/TechParthOps/GuardRailX)
+
+[![Tracevoryx](https://img.shields.io/badge/Tracevoryx-AI%20Agent%20Security-0891B2?style=for-the-badge)](https://github.com/TechParthOps/Tracevoryx)
+
+[![KLYRITHON-Code](https://img.shields.io/badge/KLYRITHON--Code-AI%20Coding%20Environment-D97706?style=for-the-badge)](https://github.com/TechParthOps/KLYRITHON-Code)
 
 </div>
-
----
 
 ## 💡 Fun Fact
 
