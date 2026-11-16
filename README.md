@@ -47,17 +47,21 @@ _No recent public push activity available._
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TechParthOps&show_icons=true&theme=gruvbox&hide_border=false&include_all_commits=true" height="165" />
+<img src="./profile/stats.svg" alt="TechParthOps GitHub Statistics" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechParthOps&layout=compact&theme=gruvbox&hide_border=false" height="165" />
+<img src="./profile/top-langs.svg" alt="Most Used Programming Languages" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=TechParthOps&theme=gruvbox&hide_border=false" width="100%" />
+<br/><br/>
+
+<img src="./profile/streak.svg" alt="GitHub Contribution Streak" width="90%" />
 
 </div>
+
 
 ## 🏆 GitHub Achievements
 
