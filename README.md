@@ -1,123 +1,207 @@
-<div align="center">
+ <div align="center">
 
-# `TechParthOps`
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:07111F,45:102D3A,100:00D4AA&text=TECHPARTHOPS&fontColor=EAFBF7&fontSize=48&fontAlignY=40&desc=CYBERSECURITY%20%7C%20AI%20ENGINEERING%20%7C%20AUTONOMOUS%20SYSTEMS&descAlignY=62&descSize=12" width="100%" />
 
-### Cybersecurity · AI Engineering · Intelligent Systems
+<br/>
 
-**Building tools that make digital systems more observable, resilient, and secure.**
+<a href="https://github.com/TechParthOps">
+<img src="https://img.shields.io/badge/GitHub-TechParthOps-101820?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00BFA6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-2563EB?style=for-the-badge" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-TechParthOps-181717?style=for-the-badge&logo=github)](https://github.com/TechParthOps)
-[![Focus](https://img.shields.io/badge/Focus-Cybersecurity-0B6E69?style=for-the-badge)](#current-focus)
-[![Focus](https://img.shields.io/badge/Exploring-AI_Security-2457A6?style=for-the-badge)](#current-focus)
+# Engineering intelligent systems.
+### Securing the digital frontier.
+
+*Exploring the intersection of cybersecurity, artificial intelligence, autonomous agents and software engineering — through practical tools, research and experimentation.*
 
 </div>
 
 ---
 
-```text
-┌─[TechParthOps@github]
-└─$ whoami
+## `01` — OPERATOR PROFILE
 
-  Cybersecurity-focused developer exploring the intersection of
-  defensive security, AI systems, threat intelligence, and automation.
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  USER       : TechParthOps                                    │
+│  DOMAIN     : Cybersecurity & AI Engineering                  │
+│  INTERESTS  : Autonomous Systems | AI Security | Research     │
+│  APPROACH   : Research → Build → Test → Improve               │
+│  OBJECTIVE  : Engineer practical, security-focused systems    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-┌─[TechParthOps@github]
-└─$ mission
+$ whoami
+Cybersecurity researcher | AI systems developer
 
-  Research. Engineer. Test. Secure.
+$ mission
+Build intelligent systems. Understand emerging threats.
+Engineer practical solutions.
 ```
 
-## `01 / About`
+My work revolves around developing software that addresses real-world engineering and security challenges.
 
-I build practical security and AI-driven systems, with an emphasis on turning complex technical ideas into usable tools.
+Areas of interest:
 
-My interests include:
-
-- Security monitoring, threat detection, and incident investigation
-- Malware analysis, digital forensics, and threat intelligence
-- AI-agent security, governance, and trustworthy automation
-- Multimodal analysis and emerging AI-enabled attack surfaces
-- Python engineering, full-stack tooling, and system integration
-
-I value evidence-backed results, clear documentation, reproducible testing, and honest reporting of what is implemented versus what is still experimental.
-
-## `02 / Featured projects`
-
-### SENTINEL-M — Autonomous cyber defense
-
-A cyber defense project focused on bringing threat detection, investigation, threat intelligence, and multimodal security analysis into one platform.
-
-**Areas of work:** security operations, malware analysis, multimodal analysis, digital forensics, autonomous investigation, and defensive response.
-
-[![Repository](https://img.shields.io/badge/Explore-SENTINEL--M-181717?style=flat-square&logo=github)](https://github.com/TechParthOps/SENTINEL-M)
-
-### LogAsis — Security log analysis
-
-A security log analysis tool focused on examining event data and supporting AI-assisted investigation workflows.
-
-**Areas of work:** log parsing, event analysis, indexing, investigation workflows, and multi-provider LLM integration.
-
-[![Repository](https://img.shields.io/badge/Explore-LogAsis-181717?style=flat-square&logo=github)](https://github.com/TechParthOps/LogAsis)
-
-### TrustWeave — AI-agent security
-
-An independent project exploring security and trust controls for AI-agent workflows.
-
-**Areas of interest:** policy enforcement, provenance, privacy-aware data handling, and safer tool or agent interactions.
-
-> Add the public repository link here when its canonical URL is ready.
-
-### OJAS — Personal AI assistant
-
-An independent personal-assistant project exploring contextual assistance, local AI, desktop automation, and agent-based workflows.
-
-> Add the public repository link here when its canonical URL is ready.
-
-## `03 / Technical interests`
-
-| Domain | Technologies and topics |
-|---|---|
-| Programming | Python, JavaScript, TypeScript |
-| Security operations | Wazuh, Snort, Suricata, Sysmon |
-| Network and web security | Nmap, Wireshark, Burp Suite, OWASP |
-| Malware and mobile analysis | MobSF, Frida, APKTool, YARA |
-| AI and automation | LLM integrations, local models, agent workflows, RAG |
-| Engineering | Git, GitHub Actions, Docker, REST APIs |
-
-*This list reflects tools and areas explored across projects; it is not a claim of equal production-level expertise in every technology.*
-
-## `04 / Current focus`
-
-```text
-[01] Improving detection and investigation workflows
-[02] Building safer AI-agent and tool-use systems
-[03] Exploring multimodal threat analysis and digital forensics
-[04] Making security tooling practical, testable, and well documented
-```
-
-## `05 / GitHub activity`
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechParthOps&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/TechParthOps)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechParthOps&layout=compact&hide_border=true&theme=transparent)](https://github.com/TechParthOps)
-
-[![GitHub streak](https://streak-stats.demolab.com?user=TechParthOps&hide_border=true&theme=transparent)](https://github.com/TechParthOps)
-
-</div>
-
-## `06 / Connect`
-
-- **GitHub:** [@TechParthOps](https://github.com/TechParthOps)
-- **Explore my repositories:** [github.com/TechParthOps?tab=repositories](https://github.com/TechParthOps?tab=repositories)
+- **Cybersecurity:** security monitoring, threat detection, investigation and digital forensics.
+- **AI Security:** AI guardrails, policy enforcement, agent security and risk evaluation.
+- **Threat Intelligence:** event correlation, malware analysis and evidence-grounded investigation.
+- **Autonomous Systems:** intelligent agents, controlled automation and context-aware workflows.
+- **AI Development:** local AI, coding assistants and intelligent development environments.
 
 ---
 
+## `02` — PROJECT DIRECTORY
+
+```bash
+$ tree ./projects
+```
+
+### [01. SENTINEL-M](https://github.com/TechParthOps/SENTINEL-M)
+
+**Autonomous Multimodal Cyber Defense Platform**
+
+A cyber defense platform designed to detect, investigate and respond to traditional cyber threats, APTs, malware, phishing, deepfakes and AI-powered attacks.
+
+`CYBER DEFENSE` `THREAT INTELLIGENCE` `DIGITAL FORENSICS` `AI SECURITY`
+
+---
+
+### [02. LogAsis](https://github.com/TechParthOps/LogAsis)
+
+**AI-Assisted Security Log Investigation Workspace**
+
+A security log investigation workspace focused on evidence-grounded analysis, event correlation and forensic investigation.
+
+`LOG ANALYSIS` `EVENT CORRELATION` `AI INVESTIGATION` `FORENSICS`
+
+---
+
+### [03. GuardRailX](https://github.com/TechParthOps/GuardRailX)
+
+**Security-Focused AI Guardrails Platform**
+
+A platform for policy enforcement, controlled tool execution, risk evaluation, red-team testing and security monitoring of AI-powered applications.
+
+`AI GUARDRAILS` `POLICY ENFORCEMENT` `RISK EVALUATION` `AI SECURITY`
+
+---
+
+### [04. Tracevoryx](https://github.com/TechParthOps/Tracevoryx)
+
+**AI-Agent Security & Risk Management**
+
+A Python-based security platform for AI-agent environments, focused on policy enforcement, controlled tool execution, security monitoring, auditability and risk-aware automation.
+
+`AI AGENTS` `AUDITABILITY` `SECURITY MONITORING` `AUTOMATION`
+
+---
+
+### [05. KLYRITHON-Code](https://github.com/TechParthOps/KLYRITHON-Code)
+
+**AI-Powered Desktop Coding Environment**
+
+An AI-powered desktop coding environment designed to go beyond code suggestions — aiming to understand codebases, automate development tasks, edit files, debug issues and run tests.
+
+`AI DEVELOPMENT` `CODE INTELLIGENCE` `AUTOMATION` `DEVELOPER TOOLS`
+
+---
+
+## `03` — TECHNOLOGY & ENGINEERING
+
 <div align="center">
 
-**Build with intent. Verify with evidence. Improve continuously.**
+### Languages
 
-<sub>Profile README maintained in the <code>TechParthOps</code> repository.</sub>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,powershell" />
+
+### Development & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=react,django,docker,git,github,linux,windows,vscode" />
+
+</div>
+
+### Security Research Environment
+
+```text
+NETWORK SECURITY     : Nmap | Wireshark | Snort | Suricata
+SECURITY MONITORING  : Wazuh | Sysmon | SIEM workflows
+WEB SECURITY        : Burp Suite | OWASP testing
+MOBILE SECURITY     : MobSF | Frida | Objection | APKTool
+AI SECURITY         : Agent security | AI guardrails | RAG
+ENGINEERING         : Python | APIs | Automation | Testing
+```
+
+*These represent tools and technical areas explored across my projects, not a claim of equal expertise in every technology.*
+
+---
+
+## `04` — RESEARCH & DEVELOPMENT
+
+```yaml
+research_tracks:
+  cyber_defense:
+    - Autonomous threat detection
+    - Security event correlation
+    - Multimodal digital forensics
+
+  ai_security:
+    - AI-agent policy enforcement
+    - Controlled tool execution
+    - Risk evaluation and red-team testing
+
+  intelligent_systems:
+    - AI-assisted investigation
+    - Context-aware automation
+    - AI-powered development environments
+
+engineering_principles:
+  - Evidence before conclusions
+  - Security by design
+  - Modular architecture
+  - Reproducible testing
+  - Explicit capability boundaries
+```
+
+---
+
+## `05` — GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechParthOps&show_icons=true&theme=transparent&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=9CA3AF&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechParthOps&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=9CA3AF" />
+
+<img src="https://streak-stats.demolab.com?user=TechParthOps&theme=transparent&hide_border=true&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" width="100%" />
+
+</div>
+
+---
+
+## `06` — ENGINEERING PHILOSOPHY
+
+> Don't just build what works. Understand why it works, where it fails, and how to make it better.
+
+I value experimentation, critical thinking, secure engineering, reproducible results and continuous improvement.
+
+My objective is to turn ideas into practical systems — with transparent limitations, verifiable behavior and meaningful engineering.
+
+---
+
+## `07` — ESTABLISH CONNECTION
+
+<div align="center">
+
+**Interested in cybersecurity, AI engineering, open-source development or technical collaboration?**
+
+<a href="https://github.com/TechParthOps">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-00BFA6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>TECHPARTHOPS · RESEARCH / ENGINEER / SECURE / IMPROVE</sub>
 
 </div>
