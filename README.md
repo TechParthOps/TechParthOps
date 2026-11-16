@@ -1,207 +1,24 @@
- <div align="center">
+# 💫 About Me:
+I'm a cybersecurity and AI enthusiast passionate about building intelligent systems, security platforms, and autonomous solutions. I enjoy exploring the intersection of cybersecurity, AI engineering, and software development — turning complex ideas into practical tools. My projects span autonomous cyber defense (SENTINEL-M), AI-powered security log investigation (LogAsis), AI guardrails (GuardRailX), AI-agent security (Tracevoryx), and intelligent coding environments (KLYRITHON-Code). Always experimenting, engineering, and learning something new.<br>I enjoy turning ambitious ideas into working software — sometimes building an entire security platform when a simple script would have done the job! I believe the best way to learn technology is to experiment, break things in a controlled environment, and build something better.<br>Cybersecurity • AI Security & Guardrails • AI Agents • Threat Detection & Intelligence • Security Log Analysis • Digital Forensics • Python Development • Autonomous Systems • AI-powered Developer Tools
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:07111F,45:102D3A,100:00D4AA&text=TECHPARTHOPS&fontColor=EAFBF7&fontSize=48&fontAlignY=40&desc=CYBERSECURITY%20%7C%20AI%20ENGINEERING%20%7C%20AUTONOMOUS%20SYSTEMS&descAlignY=62&descSize=12" width="100%" />
 
-<br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=TechParthOps&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=TechParthOps&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TechParthOps&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/TechParthOps">
-<img src="https://img.shields.io/badge/GitHub-TechParthOps-101820?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00BFA6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-2563EB?style=for-the-badge" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TechParthOps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# Engineering intelligent systems.
-### Securing the digital frontier.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-*Exploring the intersection of cybersecurity, artificial intelligence, autonomous agents and software engineering — through practical tools, research and experimentation.*
-
-</div>
-
----
-
-## `01` — OPERATOR PROFILE
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  USER       : TechParthOps                                    │
-│  DOMAIN     : Cybersecurity & AI Engineering                  │
-│  INTERESTS  : Autonomous Systems | AI Security | Research     │
-│  APPROACH   : Research → Build → Test → Improve               │
-│  OBJECTIVE  : Engineer practical, security-focused systems    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-
-$ whoami
-Cybersecurity researcher | AI systems developer
-
-$ mission
-Build intelligent systems. Understand emerging threats.
-Engineer practical solutions.
-```
-
-My work revolves around developing software that addresses real-world engineering and security challenges.
-
-Areas of interest:
-
-- **Cybersecurity:** security monitoring, threat detection, investigation and digital forensics.
-- **AI Security:** AI guardrails, policy enforcement, agent security and risk evaluation.
-- **Threat Intelligence:** event correlation, malware analysis and evidence-grounded investigation.
-- **Autonomous Systems:** intelligent agents, controlled automation and context-aware workflows.
-- **AI Development:** local AI, coding assistants and intelligent development environments.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TechParthOps&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=TechParthOps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `02` — PROJECT DIRECTORY
-
-```bash
-$ tree ./projects
-```
-
-### [01. SENTINEL-M](https://github.com/TechParthOps/SENTINEL-M)
-
-**Autonomous Multimodal Cyber Defense Platform**
-
-A cyber defense platform designed to detect, investigate and respond to traditional cyber threats, APTs, malware, phishing, deepfakes and AI-powered attacks.
-
-`CYBER DEFENSE` `THREAT INTELLIGENCE` `DIGITAL FORENSICS` `AI SECURITY`
-
----
-
-### [02. LogAsis](https://github.com/TechParthOps/LogAsis)
-
-**AI-Assisted Security Log Investigation Workspace**
-
-A security log investigation workspace focused on evidence-grounded analysis, event correlation and forensic investigation.
-
-`LOG ANALYSIS` `EVENT CORRELATION` `AI INVESTIGATION` `FORENSICS`
-
----
-
-### [03. GuardRailX](https://github.com/TechParthOps/GuardRailX)
-
-**Security-Focused AI Guardrails Platform**
-
-A platform for policy enforcement, controlled tool execution, risk evaluation, red-team testing and security monitoring of AI-powered applications.
-
-`AI GUARDRAILS` `POLICY ENFORCEMENT` `RISK EVALUATION` `AI SECURITY`
-
----
-
-### [04. Tracevoryx](https://github.com/TechParthOps/Tracevoryx)
-
-**AI-Agent Security & Risk Management**
-
-A Python-based security platform for AI-agent environments, focused on policy enforcement, controlled tool execution, security monitoring, auditability and risk-aware automation.
-
-`AI AGENTS` `AUDITABILITY` `SECURITY MONITORING` `AUTOMATION`
-
----
-
-### [05. KLYRITHON-Code](https://github.com/TechParthOps/KLYRITHON-Code)
-
-**AI-Powered Desktop Coding Environment**
-
-An AI-powered desktop coding environment designed to go beyond code suggestions — aiming to understand codebases, automate development tasks, edit files, debug issues and run tests.
-
-`AI DEVELOPMENT` `CODE INTELLIGENCE` `AUTOMATION` `DEVELOPER TOOLS`
-
----
-
-## `03` — TECHNOLOGY & ENGINEERING
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,powershell" />
-
-### Development & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=react,django,docker,git,github,linux,windows,vscode" />
-
-</div>
-
-### Security Research Environment
-
-```text
-NETWORK SECURITY     : Nmap | Wireshark | Snort | Suricata
-SECURITY MONITORING  : Wazuh | Sysmon | SIEM workflows
-WEB SECURITY        : Burp Suite | OWASP testing
-MOBILE SECURITY     : MobSF | Frida | Objection | APKTool
-AI SECURITY         : Agent security | AI guardrails | RAG
-ENGINEERING         : Python | APIs | Automation | Testing
-```
-
-*These represent tools and technical areas explored across my projects, not a claim of equal expertise in every technology.*
-
----
-
-## `04` — RESEARCH & DEVELOPMENT
-
-```yaml
-research_tracks:
-  cyber_defense:
-    - Autonomous threat detection
-    - Security event correlation
-    - Multimodal digital forensics
-
-  ai_security:
-    - AI-agent policy enforcement
-    - Controlled tool execution
-    - Risk evaluation and red-team testing
-
-  intelligent_systems:
-    - AI-assisted investigation
-    - Context-aware automation
-    - AI-powered development environments
-
-engineering_principles:
-  - Evidence before conclusions
-  - Security by design
-  - Modular architecture
-  - Reproducible testing
-  - Explicit capability boundaries
-```
-
----
-
-## `05` — GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechParthOps&show_icons=true&theme=transparent&hide_border=true&title_color=00D4AA&icon_color=00D4AA&text_color=9CA3AF&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechParthOps&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=9CA3AF" />
-
-<img src="https://streak-stats.demolab.com?user=TechParthOps&theme=transparent&hide_border=true&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" width="100%" />
-
-</div>
-
----
-
-## `06` — ENGINEERING PHILOSOPHY
-
-> Don't just build what works. Understand why it works, where it fails, and how to make it better.
-
-I value experimentation, critical thinking, secure engineering, reproducible results and continuous improvement.
-
-My objective is to turn ideas into practical systems — with transparent limitations, verifiable behavior and meaningful engineering.
-
----
-
-## `07` — ESTABLISH CONNECTION
-
-<div align="center">
-
-**Interested in cybersecurity, AI engineering, open-source development or technical collaboration?**
-
-<a href="https://github.com/TechParthOps">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-00BFA6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>TECHPARTHOPS · RESEARCH / ENGINEER / SECURE / IMPROVE</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
