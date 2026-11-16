@@ -13,13 +13,19 @@ I enjoy turning ambitious ideas into working software. I believe the best way to
 ## 🚀 Projects
 
 <!-- PROJECTS:START -->
-_Projects are automatically updated by GitHub Actions._
+| Repository | Description | Language |
+|---|---|---|
+| [SENTINEL-M](https://github.com/TechParthOps/SENTINEL-M) | SENTINEL-M is an autonomous, multimodal cyber defense platform that detects, investigates, and responds to traditional cyber threats, APTs, malware, phishing, deepfakes, and AI-powered attacks. It combines threat intelligence, AI-driven security, digital forensics, deception technology, and an interactive 3D virtual SOC for real-time cyber defense. | Python |
+| [KLYRITHON-Code](https://github.com/TechParthOps/KLYRITHON-Code) | KLYRITHON CODE is an AI-powered desktop coding environment designed to go beyond code suggestions. It aims to understand codebases, automate development tasks, edit files, debug issues, run tests, and bring multiple AI providers and intelligent coding workflows into one platform. | Not specified |
+| [Tracevoryx](https://github.com/TechParthOps/Tracevoryx) | Tracevoryx is a Python-based security platform for AI-agent environments, focused on policy enforcement, controlled tool execution, security monitoring, auditability, and risk-aware automation. Built to help developers inspect and govern agent activity with a security-first approach. | Python |
+| [GuardRailX](https://github.com/TechParthOps/GuardRailX) | GuardrailX is a security-focused AI guardrails platform for policy enforcement, controlled tool execution, risk evaluation, red-team testing, and security monitoring of AI-powered applications. | Python |
+| [LogAsis](https://github.com/TechParthOps/LogAsis) | AI-assisted security log investigation workspace for evidence-grounded analysis, event correlation, and forensic investigation. | Python |
 <!-- PROJECTS:END -->
 
 ## ⚡ Recent GitHub Activity
 
 <!-- ACTIVITY:START -->
-_Recent public repository activity is automatically updated by GitHub Actions._
+_No recent public push activity available._
 <!-- ACTIVITY:END -->
 
 ---
